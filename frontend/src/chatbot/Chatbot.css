@@ -1,0 +1,8 @@
+/* src/chatbot/Chatbot.css */
+.react-chatbot-kit-chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+    z-index: 1000;
+  }
+  
